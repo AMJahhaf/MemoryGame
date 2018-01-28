@@ -31,4 +31,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 this code was inspired by:
 1. Ahmed Khoury. 
-2. Witcher Mo
+2. Witcher Mo.
+3. stackoverflow. 
