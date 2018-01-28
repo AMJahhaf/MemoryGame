@@ -18,7 +18,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 libaraies used:
 1. jQuery. 
 2. sweetalert
-2. google api
+3. google api
+4. http://lea.verou.me/css3patterns/#cicada-stripes
 
 ## Authors
 Abdulrahman M Jahhaaf
