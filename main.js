@@ -1,5 +1,5 @@
 /* @description global variables */
-let cards = ['b', 'b', '8', '8'];//, 'n', 'n', 'w', 'w', 'k', 'k', 'd', 'd', 'l', 'l', '2', '2'];
+let cards = ['b', 'b', '8', '8' , 'n', 'n', 'w', 'w', 'k', 'k', 'd', 'd', 'l', 'l', '2', '2'];
 challange=[];
 wrongGusses=0;
 cardsMatched = 0;
